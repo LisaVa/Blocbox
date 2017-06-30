@@ -282,3 +282,9 @@ header .hero {
    display: inline-block;
    margin: 20px 10px 0 0;
  }
+ .testimonials div.staggered {
+   margin: 20px 0;
+ }
+ .testimonials div.regular {
+   margin: 0;
+ }

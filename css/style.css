@@ -449,6 +449,9 @@ footer .link-block.middle-footer-block.one-third {
   text-align: center;
   margin-right:8px;
 }
+.left-nav .items ul li a:active {
+  background-color: #FFFFFF;
+}
 
 /* LEFT NAVBAR SETTINGS */
 .left-nav .settings {

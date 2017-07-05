@@ -63,7 +63,7 @@
 .menu_settings.dropit {
   list-style: none;
 	padding: 0;
-	margin: 15px 0 0;
+	margin: 2px;
   float: right;
   display: inline-block;
 }
